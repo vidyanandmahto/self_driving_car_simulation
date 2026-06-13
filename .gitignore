@@ -1,0 +1,30 @@
+# Executable files
+
+*.exe
+*.out
+
+# Object files
+
+*.o
+*.obj
+
+# Visual Studio Code
+
+.vscode/
+
+# Build folders
+
+build/
+bin/
+
+# CMake files
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS files
+
+.DS_Store
+Thumbs.db
